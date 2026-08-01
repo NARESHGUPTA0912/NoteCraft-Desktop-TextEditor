@@ -56,22 +56,22 @@ The application provides an intuitive interface for creating and editing plain t
 
 ### Main Window
 
-![Main Window](screenshots/screenshot1.png)
+![Main Window](screenshots/Screenshot1.png)
 
 ### File Menu
 
-![File Menu](screenshots/screenshot1-1.png)
+![File Menu](screenshots/Screenshot1-1.png)
 
 ### Open File
 
-![Open File](screenshots/screenshot2-1.png)
+![Open File](screenshots/Screenshot2-1.png)
 
 ### Print File
-![Open File](screenshots/screenshot3.png)
+![Open File](screenshots/Screenshot3.png)
 
 ### About
 
-![About](screenshots/screenshot4.png)
+![About](screenshots/Screenshot4.png)
 
 ---
 
