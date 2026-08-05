@@ -78,19 +78,22 @@ Current Version: **v1.0.0**
 
 ### Main Window
 
-![Main Window](screenshots/home.png)
+![Main Window](screenshots/Screenshot1.png)
 
 ### File Menu
 
-![File Menu](screenshots/file-menu.png)
+![File Menu](screenshots/Screenshot1-1.png)
 
 ### Open File
 
-![Open File](screenshots/open-file.png)
+![Open File](screenshots/Screenshot2-1.png)
+
+### Print File
+![Open File](screenshots/Screenshot3.png)
 
 ### About
 
-![About](screenshots/about.png)
+![About](screenshots/Screenshot4.png)
 
 ---
 
