@@ -1,3 +1,5 @@
+![Release](https://img.shields.io/github/v/release/NARESHGUPTA0912/NoteCraft-Desktop-TextEditor)
+
 # 📝 NoteCraft
 
 > A lightweight desktop text editor built using **Java Swing** that allows users to create, edit, open, save, and print plain text documents through a clean and user-friendly interface.
@@ -10,11 +12,31 @@
 
 ---
 
+## 📥 Download
+
+Download the latest version from the **Releases** page.
+
+➡️ https://github.com/NARESHGUPTA0912/NoteCraft-Desktop-TextEditor/releases/latest
+
+### Installation
+
+1. Download `NoteCraft-1.0.exe`
+2. Run the installer
+3. If Windows SmartScreen appears:
+   - Click **More info**
+   - Click **Run anyway**
+4. Launch NoteCraft from the Start Menu or Desktop shortcut.
+
+
 ## 📖 About
 
 **NoteCraft** is a simple desktop text editor inspired by the classic Notepad application. It was developed using **Java Swing** to strengthen desktop GUI programming skills, event handling, file I/O operations, and object-oriented design principles.
 
 The application provides an intuitive interface for creating and editing plain text files while maintaining a clean and lightweight user experience.
+
+## 📌 Version
+
+Current Version: **v1.0.0**
 
 ---
 
@@ -78,6 +100,8 @@ The application provides an intuitive interface for creating and editing plain t
 - Java Swing
 - Maven
 - NetBeans IDE
+- jpackage
+- WiX Toolset
 
 ---
 
@@ -111,6 +135,25 @@ NoteCraft
 
 ---
 
+# Project History
+
+- **MyNotes** – Initial beta version.
+- **NoteCraft** – Stable release with improved UI, packaging, and features
+
+## 💡 Future Improvements
+
+- Undo / Redo
+- Find & Replace
+- Dark Mode
+- Font Chooser
+- Status Bar
+- Word Count
+- Recent Files
+- Auto Save
+- Themes
+
+---
+
 ## 🚀 Getting Started
 
 ### Clone the repository
@@ -126,20 +169,6 @@ Open the project in **NetBeans** or any Java IDE that supports Maven.
 ### Run
 
 Run the `NoteCraft` class.
-
----
-
-## 💡 Future Improvements
-
-- Undo / Redo
-- Find & Replace
-- Dark Mode
-- Word Count
-- Status Bar
-- Font Chooser
-- Themes
-- Recent Files
-- Auto Save
 
 ---
 
